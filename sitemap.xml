@@ -1,9 +1,10 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Replace this placeholder with the exact published GitHub Pages URL before deployment. -->
   <url>
-    <loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://formixsolution.com/</loc>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 </urlset>
+
